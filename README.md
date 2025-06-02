@@ -2,7 +2,9 @@
 
 ## Autor
 **Imię i nazwisko:** Kacper Karkosz 
+
 **Przedmiot:** Platformy Programistyczne .NET i Java  
+
 **Prowadzący:** mgr inż. Michał Jaroszczuk
 
 ---
